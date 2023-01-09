@@ -1,0 +1,242 @@
+<body ng-controller="pageSingle">
+    <main>
+        <div class="single-product">
+            <div class="container">
+                <div class="wrapper">
+                    <div class="breadcrumb">
+                        <ul class="flexitem">
+                            <li><a href="">Home</a></li>
+                            <li><a href="">Features</a></li>
+                            <li><a href="">{{products.title}}</a></li>
+                        </ul>
+                    </div>
+                    <!-- breadcrumb -->
+                    <div class="column">
+                        <div class="logobrand-1">
+                            <img ng-src="{{products.logobrand}}" alt="">
+                        </div>
+                        <div class="products one">
+                            <div class="flexwrap">
+                                <div class="row">
+                                    <div class="item is-sticky">
+                                        <div class="price">
+                                            <span class="discount">{{products.sale}}%<br>OFF</span>
+                                        </div>
+                                        <div class="big-image">
+                                            <div class="big-image-wrapper swiper-wrapper">
+                                                <div class="image-show swiper-slide" ng-repeat="data in products.imgbigs">
+                                                    <a data-fslightbox ng-href="{{data.img}}" alt="" swiper>
+                                                        <img ng-src="{{data.img}}" alt="" >
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-button-next"></div>
+                                            <div class="swiper-button-prev"></div>
+                                        </div>
+                                        <div thumbSlider="" class="small-image">
+                                            <ul class="small-image-wrapper flexitem swiper-wrapper">
+                                                <li class="thumbnail-show swiper-slide" ng-repeat="data in products.imgbigs" >
+                                                    <img ng-src="{{data.img}}" alt="" swiper>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="item">
+                                        <h1>{{products.title}}</h1>
+                                        <div class="content">
+                                            <div class="rating">
+                                                <div class="stars"></div>
+                                                <a class="mini-text">2,251 reviews</a>
+                                                <a class="add-review mini-text">Add Your Review</a>
+                                            </div>
+                                            <div class="stock-sku">
+                                                <span class="available">In Stock</span>
+                                                <span class="sku mini-text">{{products.instock}}</span>
+                                            </div>
+                                            <div class="price">
+                                                <span class="current">${{products.price}}</span>
+                                                <span class="normal">${{products.oldprice}}</span>
+                                            </div>
+                                            <div class="colors">
+                                                <p>Color</p>
+                                                <div class="variant">
+                                                    <form action="">
+                                                        <P>
+                                                            <input type="radio" name="color" id="{{products.color}}" checked>
+                                                            <label for="{{products.color}}" class="circle"></label>
+                                                        </P>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                            <div class="sizes">
+                                                <p>Storage Capacity</p>
+                                                <div class="variant">
+                                                    <form action="">
+                                                        <P>
+                                                            <input type="radio" name="size" id="{{products.storagecapacity}}" checked>
+                                                            <label for="{{products.storagecapacity}}" class="square"><span>{{products.storagecapacity}}</span></label>
+                                                        </P>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                            <div class="actions">
+                                                <div class="qty-control flexitem">
+                                                    <button class="minus circle" ng-click="removeBasket(products)">-</button>
+                                                    <input type="text" value="{{products.count}}" placeholder="1">
+                                                    <button class="plus circle" ng-click="addItem(products)">+</button>
+                                                </div>
+                                                <div class="button-cart">
+                                                    <button class="primary-button" ng-click="addItem(products)">Add to cart</button>
+                                                </div>
+                                                <div class="wish-share">
+                                                    <ul class="flexitem second-links">
+                                                        <li>
+                                                            <a href="#">
+                                                                <span class="icon-large"><i class="ri-heart-line"></i></span>
+                                                                <span>Wishlist</span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#">
+                                                                <span class="icon-large"><i class="ri-share-line"></i></span>
+                                                                <span>Share</span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="description collapse">
+                                                <ul>
+                                                    <li class="has-child expand">
+                                                        <a class="icon-small">Information
+                                                            <div class="icon-small">
+                                                                <a ng-href="{{products.download}}" class="add-review mini-text" download ><i class="fa fa-download"></i> DownLoad</a>
+                                                            </div>
+                                                        </a>
+                                                        <div class="content">
+                                                            <table ng-repeat="data in products.informations | filter:search">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>{{data.information}}</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr ng-repeat="data in data.details  | filter:search">
+                                                                        <td>{{data.info1}}</td>
+                                                                        <td>{{data.info2}}</td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </li>
+                                                    <li class="has-child expand">
+                                                        <a class="icon-small">Customers Reviews<span class="mini-text">2.2k</span></a>
+                                                        <div class="content">
+                                                            <div class="reviews">
+                                                                <!-- <h4>Customers Reviews</h4> -->
+                                                                <div class="review-block">
+                                                                    <div class="review-block-head">
+                                                                        <div class="fleitem">
+                                                                            <span class="rate-sum">4.9</span>
+                                                                            <span>2,251 Reviews</span>
+                                                                        </div>
+                                                                        <a href="#review.form" class="secondary-button">Write review</a>
+                                                                    </div>
+                                                                    <div class="review-block-body">
+                                                                        <ul>
+                                                                            <li class="item">
+                                                                                <div class="review-form">
+                                                                                    <p class="person">Review by Sarah</p>
+                                                                                    <p class="mini-text">On 7/7/22</p>
+                                                                                </div>
+                                                                                <div class="review-rating rating">
+                                                                                    <div class="stars"></div>
+                                                                                </div>
+                                                                                <div class="review-title">
+                                                                                    <p>Awesome product!</p>
+                                                                                </div>
+                                                                                <div class="review-text">
+                                                                                    <p>I will recommend this website to my family. 
+                                                                                    You excel at serving your customers. Great job!</p>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li class="item">
+                                                                                <div class="review-form">
+                                                                                    <p class="person">Review by Sarah</p>
+                                                                                    <p class="mini-text">On 7/7/22</p>
+                                                                                </div>
+                                                                                <div class="review-rating rating">
+                                                                                    <div class="stars"></div>
+                                                                                </div>
+                                                                                <div class="review-title">
+                                                                                    <p>Very good customer service!</p>
+                                                                                </div>
+                                                                                <div class="review-text">
+                                                                                    <p>You're really good at following up with the client
+                                                                                    so as to ensure that they are never left in the dark. 
+                                                                                    Keep it up!</p>
+                                                                                </div>
+                                                                            </li>
+                                                                        </ul>
+                                                                        <div class="second-links">
+                                                                            <a class="view-all">
+                                                                                View all reviews <i class="ri-arrow-right-line"></i>
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div id="review-rorm" class="review-form">
+                                                                        <h4>Write a review</h4>
+                                                                        <div class="rating">
+                                                                            <p>Are you satisfied enough?</p>
+                                                                            <div class="rate-this">
+                                                                                <input type="radio" name="rating" id="star5">
+                                                                                <label for="star5"><i class="ri-star-fill"></i></label>
+
+                                                                                <input type="radio" name="rating" id="star4">
+                                                                                <label for="star4"><i class="ri-star-fill"></i></label>
+
+                                                                                <input type="radio" name="rating" id="star3">
+                                                                                <label for="star3"><i class="ri-star-fill"></i></label>
+                                                                                
+                                                                                <input type="radio" name="rating" id="star2">
+                                                                                <label for="star2"><i class="ri-star-fill"></i></label>
+
+                                                                                <input type="radio" name="rating" id="star1">
+                                                                                <label for="star1"><i class="ri-star-fill"></i></label>
+                                                                            </div>
+                                                                        </div>
+                                                                        <form action="">
+                                                                            <p>
+                                                                                <label for="">Name</label>
+                                                                                <input type="text">
+                                                                            </p>
+                                                                            <p>
+                                                                                <label for="">Summary</label>
+                                                                                <input type="text">
+                                                                            </p>
+                                                                            <p>
+                                                                                <label for="">Review</label>
+                                                                                <textarea name="" id="" cols="30" rows="10"></textarea>
+                                                                            </p>
+                                                                            <p><a class="primary-button">Submit Review</a></p>
+                                                                        </form>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

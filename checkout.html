@@ -1,0 +1,113 @@
+<body ng-controller="checkOut">
+    <main>
+        <div class="single-checkout">
+            <div class="container">
+                <div class="wrapper">
+                    <div class="checkout flexwrap">
+                        <div class="item left styled">
+                            <h1>Shipping Address</h1>
+                            <form action="">
+                                <p>
+                                    <label for="email">Email Address <span></span></label>
+                                    <input type="email" name="email" id="email" autocomplete="off" required>
+                                </p>
+                                <p>
+                                    <label for="fname">First Name <span></span></label>
+                                    <input type="text" id="fname" required>
+                                </p>
+                                <p>
+                                    <label for="lname">Last Name <span></span></label>
+                                    <input type="text" id="lname" required>
+                                </p>
+                                <p>
+                                    <label for="cname">Company Name <span></span></label>
+                                    <input type="text" id="cname" required>
+                                </p>
+                                <p>
+                                    <label for="adress">Street Address <span></span></label>
+                                    <input type="text" id="adress" required>
+                                </p>
+                                <p>
+                                    <label for="city">City <span></span></label>
+                                    <input type="text" id="city" required>
+                                </p>
+                                <p>
+                                    <label for="city">State/Province <span></span></label>
+                                    <input type="text" id="city" required>
+                                </p>
+                                <p>
+                                    <label for="postal">Zip / Postal Code <span></span></label>
+                                    <input type="number" id="postal" required>
+                                </p>
+                                <p>
+                                    <label for="country">Country</label>
+                                    <select name="" id="">
+                                        <option value="1"></option>
+                                        <option value="2">United Kingdom</option>
+                                        <option value="3">Indo</option>
+                                        <option value="4" selected="selected">United State</option>
+                                        <option value="5">Others</option>
+                                    </select>
+                                </p>
+                                <p>
+                                    <label for="phone">Phone Number <span></span></label>
+                                    <input type="number" id="phone" required>
+                                </p>
+                                <p>
+                                    <label for="">Order Notes (optional)</label>
+                                    <textarea cols="30" rows="10"></textarea>
+                                </p>
+                                <p class="checkset">
+                                    <input type="checkbox" id="anaccount">
+                                    <label for="anaccount">Create an account?</label>
+                                </p>
+                            </form>
+                            <div class="primary-checkout">
+                                <button class="primary-button">Place Order</button>
+                            </div>
+                        </div>
+                        <div class="item right">
+                            <h2>Order Summary</h2>
+                            <div class="summary-order is_sticky">
+                                <div class="summary-totals">
+                                    <ul>
+                                        <li>
+                                            <span>Subtotal</span>
+                                            <span>${{!totalPrice ? "0" : totalPrice | number:0}}</span>
+                                        </li>
+                                        <li>
+                                            <span>Discount</span>
+                                            <span>$100.00</span>
+                                        </li>
+                                        <li>
+                                            <span>Shipping: Flat</span>
+                                            <span>$10.00</span>
+                                        </li>
+                                        <li>
+                                            <span>TOTAL</span>
+                                            <span>{{totalPrice+110 | currency}}</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <ul class="products mini">
+                                    <li class="item" ng-repeat= "myItem in myItems">
+                                        <div class="thumbnail object-cover">
+                                            <img ng-src="{{myItem.img2}}" alt="">
+                                        </div>
+                                        <div class="item-content">
+                                            <p>{{myItem.title}}</p>
+                                            <span class="price">
+                                                <span>${{myItem.price}}</span>
+                                                <span>x {{myItem.count}}</span>
+                                            </span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

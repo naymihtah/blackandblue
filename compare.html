@@ -1,0 +1,121 @@
+<body ng-controller="compare">
+    <main>
+        <div class="features">
+            <div class="container">
+                <div class="wrapper ">
+                    <div class="column">
+                        <div class="sectop flexitem">
+                            <h2><span class="circle"></span><span>Which model is right for you?</span></h2>
+                        </div>
+                        <div class="products main flexwrap">
+                            <div class="item-1" ng-model="compare">
+                                <div style="padding: 5px 0;">Select Product</div> 
+                                <div class="media-1">
+                                    <div style="height:230px;">Product Image</div>   
+                                </div>
+                                <div class="content">
+                                    <div class="main-links">Price</div>
+                                    <div class="main-links">Screen</div>
+                                    <div class="main-links">Resolution</div>
+                                    <div class="main-links">Touch Glass</div>
+                                    <div class="main-links">CPU</div>
+                                    <div class="main-links">Battery</div>
+                                </div>
+                            </div>
+                            <div class="item-1">
+                                <select ng-model="compare" ng-options="y.title for (x, y) in products"></select>
+                                <div class="media-1">
+                                    <div>
+                                        <a href="#!/page-single/{{compare.id}}#page">
+                                            <img ng-src="{{compare.img}}" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="main-links"><a>{{compare.price | currency}}</a></div>
+                                    <div class="main-links"><a>{{compare.screen}}</a></div>
+                                    <div class="main-links"><a>{{compare.resolution}}</a></div>
+                                    <div class="main-links"><a>{{compare.touch}}</a></div>
+                                    <div class="main-links"><a>{{compare.cpumain}}</a></div>
+                                    <div class="main-links"><a>{{compare.battery}}</a></div>
+                                </div>
+                            </div>
+                            <div class="item-1">
+                                <select ng-model="compare1" ng-options="y.title for (x, y) in products"></select>
+                                <div class="media-1">
+                                    <div class="">
+                                        <a href="#!/page-single/{{compare1.id}}#page">
+                                            <img ng-src="{{compare1.img}}" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="main-links"><a>{{compare1.price | currency}}</a></div>
+                                    <div class="main-links"><a>{{compare1.screen}}</a></div>
+                                    <div class="main-links"><a>{{compare1.resolution}}</a></div>
+                                    <div class="main-links"><a>{{compare1.touch}}</a></div>
+                                    <div class="main-links"><a>{{compare1.cpumain}}</a></div>
+                                    <div class="main-links"><a>{{compare1.battery}}</a></div>
+                                </div>
+                            </div>
+                            <div class="item-1">
+                                <select ng-model="compare2" ng-options="y.title for (x, y) in products"></select>
+                                <div class="media-1">
+                                    <div class="">
+                                        <a href="#!/page-single/{{compare2.id}}#page">
+                                            <img ng-src="{{compare2.img}}" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="main-links"><a>{{compare2.price | currency}}</a></div>
+                                    <div class="main-links"><a>{{compare2.screen}}</a></div>
+                                    <div class="main-links"><a>{{compare2.resolution}}</a></div>
+                                    <div class="main-links"><a>{{compare2.touch}}</a></div>
+                                    <div class="main-links"><a>{{compare2.cpumain}}</a></div>
+                                    <div class="main-links"><a>{{compare2.battery}}</a></div>
+                                </div>
+                            </div>
+                            <div class="item-1">
+                                <select ng-model="compare3" ng-options="y.title for (x, y) in products"></select>
+                                <div class="media-1">
+                                    <div class="">
+                                        <a href="#!/page-single/{{compare3.id}}#page">
+                                            <img ng-src="{{compare3.img}}" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="main-links"><a>{{compare3.price | currency}}</a></div>
+                                    <div class="main-links"><a>{{compare3.screen}}</a></div>
+                                    <div class="main-links"><a>{{compare3.resolution}}</a></div>
+                                    <div class="main-links"><a>{{compare3.touch}}</a></div>
+                                    <div class="main-links"><a>{{compare3.cpumain}}</a></div>
+                                    <div class="main-links"><a>{{compare3.battery}}</a></div>
+                                </div>
+                            </div>
+                            <div class="item-1">
+                                <select ng-model="compare4" ng-options="y.title for (x, y) in products"></select>
+                                <div class="media-1">
+                                    <div class="">
+                                        <a href="#!/page-single/{{compare4.id}}#page">
+                                            <img ng-src="{{compare4.img}}" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="main-links"><a>{{compare4.price | currency}}</a></div>
+                                    <div class="main-links"><a>{{compare4.screen}}</a></div>
+                                    <div class="main-links"><a>{{compare4.resolution}}</a></div>
+                                    <div class="main-links"><a>{{compare4.touch}}</a></div>
+                                    <div class="main-links"><a>{{compare4.cpumain}}</a></div>
+                                    <div class="main-links"><a>{{compare4.battery}}</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

@@ -1,0 +1,42 @@
+[
+    {
+        "brand": "Apple",
+        "on": false 
+    },
+    {
+        "brand": "Samsung",
+        "on": false 
+    },
+    {
+        "brand": "Oppo",
+        "on": false 
+    },
+    {
+        "brand": "Vivo",
+        "on": false 
+    },
+    {
+        "brand": "Nokia",
+        "on": false 
+    },
+    {
+        "brand": "Realme",
+        "on": false 
+    },
+    {
+        "brand": "Asus",
+        "on": false 
+    },
+    {
+        "brand": "Oneplus",
+        "on": false 
+    },
+    {
+        "brand": "Tecno",
+        "on": false 
+    },
+    {
+        "brand": "Xiaomi",
+        "on": false 
+    }
+]

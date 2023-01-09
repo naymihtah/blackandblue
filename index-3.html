@@ -1,0 +1,93 @@
+<body>
+    <main>
+        <div class="features">
+            <div class="container">
+                <div class="wrapper">
+                    <div class="column">
+                            <div class="section">
+                                <div class="row">
+                                    <div class="cat-head">
+                                        <div class="breadcrumb">
+                                            <ul class="flexitem">
+                                                <li><a href="#" id="home">Home</a></li>
+                                                <li>Brand</li>
+                                            </ul>
+                                        </div>
+                                        <div class="cat-navigation flexitem">
+                                            <div class="item-filter desktop-hide">
+                                                <a class="filter-trigger label">
+                                                    <i class="ri-menu-2-line ri-2x"></i>
+                                                    <span>Filter</span>
+                                                </a>
+                                            </div>
+                                            <div class="item-sortir">
+                                                <div class="label">
+                                                    <span class="mobile-hide">Sort by default</span>
+                                                    <div class="desktop-hide">Default</div>
+                                                    <i class="ri-arrow-down-s-line"></i>
+                                                </div>
+                                                <ul ng-model="sort">
+                                                    <li>Default</li>
+                                                    <li ng-click="sort='title'">Product Name</li>
+                                                    <li ng-click="sort='price'">Price</li>
+                                                    <li ng-click="sort='brand'">Brand</li>
+                                                </ul>
+                                            </div>
+                                            <div class="item-perpage mobile-hide">
+                                                <div class="label">Items 9 per page</div>
+                                                <div class="desktop-hide">9</div>
+                                            </div>
+                                            <div class="item-options">
+                                                <div class="label">
+                                                    <span class="mobile-hide">Show 9 per page</span>
+                                                    <div class="desktop-hide">9</div>
+                                                    <i class="ri-arrow-down-s-line"></i>
+                                                </div>
+                                                <ul>
+                                                    <li ng-click="loadMore(limit)+9">18</li>
+                                                    <li ng-click="loadMore(limit+100)">ALL</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="products main flexwrap">
+                                    <!-- products -->
+                                    <div class="item" ng-repeat="data in products | filter:{title: search} | limitTo : limit | Filter:(brands|filter:{on:true})| orderBy:sort">
+                                        <div class="media">
+                                            <div class="thumbnail object-cover" >
+                                                <a href="#!/page-single/{{data.id}}#page">
+                                                    <img ng-src="{{data.img}} " alt="" >
+                                                </a>
+                                            </div>
+                                            <div class="hoverable">
+                                                <ul>
+                                                    <li class="active"><a href="#"><i class="ri-heart-line"></i></a></li>
+                                                    <li><a href="#!/page-single/{{data.id}}#page"><i class="ri-eye-line"></i></a></li>
+                                                    <li><a><i class="ri-shuffle-line"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="discount circle flexcenter"><span>{{data.sale}}%</span></div>
+                                        </div>
+                                        <div class="content">
+                                            <div class="rating">
+                                                <div class="stars"></div>
+                                                    <span class="mini-text">(2,548)</span>
+                                            </div>
+                                            <h3 class="main-links"><a href="#!/page-single/{{data.id}}#page">{{data.title}}</a></h3>
+                                            <div class="price">
+                                                <span class="current">${{data.price}}</span>
+                                                <span class="normal mini-text">${{data.oldprice}}</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="load-more flexcenter"><a ng-click="loadMore(limit)" class="secondary-button">Load more</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

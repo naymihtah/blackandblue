@@ -1,0 +1,2535 @@
+[
+    {
+        "menusmall": [
+            {
+                "brand": "assets/brands/apple.png",
+                "titlebig": [
+                    {
+                        "title": "IPHONE 14 SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 1,
+                                "title": "IPhone 14 Pro Max"
+                            },
+                            {
+                                "id": 10,
+                                "title": "IPhone 14 Pro"
+                            },
+                            {
+                                "id": 11,
+                                "title": "IPhone 14 Plus"
+                            },
+                            {
+                                "id": 12,
+                                "title": "IPhone 14"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "IPHONE 13 SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 13,
+                                "title": "IPhone 13 Pro Max"
+                            },
+                            {
+                                "id": 14,
+                                "title": "IPhone 13 Pro"
+                            },
+                            {
+                                "id": 15,
+                                "title": "IPhone 13"
+                            }
+                        ]
+                    }
+                ],
+                "titlebig1":
+                [
+                    {
+                        "title": "IPHONE 12 SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 6,
+                                "title": "IPhone 12"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "IPHONE 11 SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 2,
+                                "title": "IPhone 11"
+                            }
+                        ]
+                    }
+                ]  
+            },
+            {
+                "brand": "assets/brands/samsung.jpg",
+                "titlebig": [
+                    {
+                        "title": "SAMSUNG Z SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 3,
+                                "title": "Samsung Z Fold 4"
+                            },
+                            {
+                                "id": 17,
+                                "title": "Samsung Z Flip 4"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "SAMSUNG S SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 7,
+                                "title": "Samsung S21 FE"
+                            },
+                            {
+                                "id": 18,
+                                "title": "Samsung S22"
+                            }
+                        ]
+                    }
+                ], 
+                "titlebig1": [
+                    {
+                        "title": "SAMSUNG A SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 19,
+                                "title": "Samsung A73"
+                            },
+                            {
+                                "id": 20,
+                                "title": "Samsung A53"
+                            }
+                        ]
+                    }
+                ]  
+            },
+            {
+                "brand": "assets/brands/oppo.jpg",
+                "titlebig": [
+                    {
+                        "title": "OPPO RENO SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 28,
+                                "title": "Oppo Reno 7"
+                            },
+                            {
+                                "id": 27,
+                                "title": "Oppo Reno 8"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "OPPO F SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 26,
+                                "title": "Oppo Find X5 Pro"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/vivo.jpg",
+                "titlebig": [
+                    {
+                        "title": "VIVO V SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 38,
+                                "title": "Vivo V25"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "VIVO T SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 39,
+                                "title": "Vivo T1x"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "VIVO Y SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 40,
+                                "title": "Vivo Y35"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/nokia.jpg",
+                "titlebig": [
+                    {
+                        "title": "NOKIA G SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 47,
+                                "title": "Nokia G21"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "NOKIA C SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 50,
+                                "title": "Nokia C31"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/realme.jpg",
+                "titlebig": [
+                    {
+                        "title": "REALME C SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 8,
+                                "title": "Realme C33"
+                            },
+                            {
+                                "id": 4,
+                                "title": "Realme C35"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/asus.jpg"
+            },
+            {
+                "brand": "assets/brands/oneplus.jpg",
+                "titlebig": [
+                    {
+                        "title": "ONEPLUS N SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 64,
+                                "title": "Oneplus Nord CE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/tecno.jpg"
+            },
+            {
+                "brand": "assets/brands/xiaomi.jpg",
+                "titlebig": [
+                    {
+                        "title": "XIAOMI T SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 69,
+                                "title": "Xiaomi 12T"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "XIAOMI NOTE SERIES",
+                        "titlesmall": [
+                            {
+                                "id": 71,
+                                "title": "Xiaomi Redmi Note 11"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "brand": "assets/brands/bestseller.jpg"
+            }
+        ],
+        "slider":
+        [
+            {
+                "id": 1,
+                "imgitem": "assets/slider/slider0.jpg",
+                "brand": "Apple",
+                "title": "IPhone 14 Pro Max"
+            },
+            {
+                "id": 3,
+                "imgitem": "assets/slider/slider1.jpg",
+                "brand": "Samsung",
+                "title": "Samsung Z Fold 4"
+            }
+        ],
+        "logobrands":
+        [
+            {
+                "brand": "assets/brands/apple.png"
+            },
+            {
+                "brand": "assets/brands/asus.jpg"
+            },
+            {
+                "brand": "assets/brands/nokia.jpg"
+            },
+            {
+                "brand": "assets/brands/oneplus.jpg"
+            },
+            {
+                "brand": "assets/brands/oppo.jpg"
+            },
+            {
+                "brand": "assets/brands/realme.jpg"
+            },
+            {
+                "brand": "assets/brands/samsung.jpg"
+            },
+            {
+                "brand": "assets/brands/tecno.jpg"
+            },
+            {
+                "brand": "assets/brands/vivo.jpg"
+            },
+            {
+                "brand": "assets/brands/xiaomi.jpg"
+            }
+        ],
+        "itembig":
+        [
+            {
+                "id": 1,
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/14promax_purple_1.png",
+                "sale": "10",
+                "title": "IPhone 14 Pro Max",
+                "price": "900",
+                "priceold": "1000"
+            }
+        ],
+        "itemmini1":
+        [
+            {
+                "id": 13,
+                "title": "IPhone 13 Pro Max",
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_1.png",
+                "sale": "18",
+                "price": "819",
+                "priceold": "999"
+            },
+            {
+                "id": 14,
+                "title": "IPhone 13 Pro",
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_3.png",
+                "sale": "20",
+                "price": "800",
+                "priceold": "999"
+            },
+            {
+                "id": 15,
+                "title": "IPhone 13",
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/13_pink_1.png",
+                "sale": "10",
+                "price": "800",
+                "priceold": "888"
+            }
+        ],
+        "itemmini2":
+        [
+            {
+                "id": 3,
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_1-1.jpg",
+                "sale": "10",
+                "title": "Samsung Z Fold 4",
+                "price": "317",
+                "priceold": "352"
+            },
+            {
+                "id": 7,
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Pastel-Purple/ss_s21fe_purple_2.jpg",
+                "sale": "5",
+                "title": "Samsung S21 FE",
+                "price": "244",
+                "priceold": "256"
+            },
+            {
+                "id": 17,
+                "title": "Samsung Z Flip 4",
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_1.jpg",
+                "sale": "20",
+                "price": "550",
+                "priceold": "804"
+            }
+        ],
+        "id": 1,
+        "salebig": [
+            {
+                "title": "iPhone 14 Pro Max"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/14promax_purple_1-1.png",
+        "img2": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/iphone-14-pro-max-purple-4.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "IPhone 14 Pro Max",
+        "sale": "10",
+        "instock": "170",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/iphone-14-pro-max-purple-4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/iphone-14-pro-max-purple-5.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro-max/Deep Purple/iphone-14-pro-max-purple-6.jpg"
+            }
+        ],
+        "price": "900",
+        "oldprice": "1000",
+        "color": "Purple",
+        "storagecapacity": "1 TB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.7 inch (diagonal) all screen OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "2796 x 1290 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield tempered glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 16"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "A16 Bionic chip 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4323 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.7\" (diagonal) all screen OLED",
+                "resolution": "2796 x 1290 Pixels",
+                "touch": "Ceramic Shield tempered glass",
+                "cpumain": "iOS 16, A16 Bionic chip 6 cores",
+                "battery": "Li-Ion, 4323 mAh",
+                "download": "./download/id1.docx"
+    },
+    {
+        "id": 2,
+        "img": "assets/cellphones/Apple/iphone-11/White/11_white_2.jpg",
+        "img2": "assets/cellphones/Apple/iphone-11/White/11_white_3.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "iPhone 11",
+        "sale": "28",
+        "instock": "29",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-11/White/11_white_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-11/White/11_white_4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-11/White/11_white_5.jpg"
+            }
+        ],
+        "price": "518",
+        "oldprice": "719",
+        "color": "White",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Liquid Retina, 6.1 inch, IPS LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "828 x 1792 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Oleophobic tempered glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 15"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A13 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3110 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Liquid Retina, 6.1\", IPS LCD",
+                "resolution": "828 x 1792 Pixels",
+                "touch": "Oleophobic tempered glass",
+                "cpumain": "iOS 15, Apple A13 Bionic 6 cores",
+                "battery": "Li-Ion, 3110 mAh",
+                "download":"./download/id2.docx"
+    },
+    {
+        "id": 3,
+        "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_3.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung Galaxy Z Fold 4",
+        "sale": "10",
+        "instock": "30",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_5.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Fold-4/Phantom-Black/ss_fold4_phantom_6.jpg"
+            }
+        ],
+        "price": "317",
+        "oldprice": "352",        
+        "color": "Grey",
+        "storagecapacity": "512GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "QXGA, Main 7.6 inch & Extra 6.2 inch, Dynamic AMOLED 2X"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "Main: 2176 x 1812 Pixels & Extra: 2316 x 904 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Main: Ultra Thin Glass & Extra: Corning Gorilla Glass Victus+"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 8+ Gen 1 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4400 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "QXGA, Main 7.6\", Dynamic AMOLED 2X",
+                "resolution": "Main: 2176 x 1812 Pixels",
+                "touch": "Main: Ultra Thin Glass",
+                "cpumain": "Android 12, Snapdragon 8+ Gen 1 8 cores",
+                "battery": "Li-Ion, 4400 mAh",
+                "download":"./download/id3.docx"
+    },
+    {
+        "id": 4,
+        "img": "assets/cellphones/Realme/C35/green/realme_c35_green_1.jpg",
+        "img2": "assets/cellphones/Realme/C35/green/realme_c35_green_4.jpg",
+        "brand": "Realme",
+        "logobrand": "assets/brands/realme.jpg",
+        "title": "Realme C35",
+        "sale": "22",
+        "instock": "122",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Realme/C35/green/realme_c35_green_4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Realme/C35/green/realme_c35_green_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Realme/C35/green/realme_c35_green_3.jpg"
+            }
+        ],
+        "price": "194",
+        "oldprice": "211",
+        "color": "Green",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.6 inch, IPS LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2408 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Panda Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 11"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Unisoc T616 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.6\", IPS LCD",
+                "resolution": "1080 x 2408 Pixels",
+                "touch": "Panda Tempered Glass",
+                "cpumain": "Android 11, Unisoc T616 8 cores",
+                "battery": "Li-Po, 5000 mAh",
+                "download":"./download/id4.docx"
+    },
+    {
+        "id": 28,
+        "salebig": [
+            {
+                "title": "Oppo Reno 7"
+            }
+        ],
+        "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-7-5G/Blue/oppo_reno7_blue_1.jpg",
+        "img2": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-7-5G/Blue/oppo_reno7_blue_2.jpg",
+        "brand": "Oppo",
+        "logobrand": "assets/brands/oppo.jpg",
+        "title": "Oppo Reno 7",
+        "sale": "30",
+        "instock": "88",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-7-5G/Blue/oppo_reno7_blue_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-7-5G/Blue/oppo_reno7_blue_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-7-5G/Blue/oppo_reno7_blue_4.jpg"
+            }
+        ],
+        "price": "150",
+        "oldprice": "160",
+        "color": "Blue",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.4 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 5 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 11"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "MediaTek Dimensity 900 5G"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 4500 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.4\", AMOLED",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 5 Tempered Glass",
+                "cpumain": "Android 11, MediaTek Dimensity 900 5G",
+                "battery": "Li-Po, 4500 mAh",
+                "download":"./download/id28.docx"
+    },
+    {
+        "id": 38,
+        "img": "assets/cellphones/Vivo/Vivo-V-Series/V25/Gold/vivo_V25_gold_3.jpg",
+        "img2": "assets/cellphones/Vivo/Vivo-V-Series/V25/Gold/vivo_V25_gold_1.jpg",
+        "brand": "Vivo",
+        "logobrand": "assets/brands/vivo.jpg",
+        "title": "Vivo V25",
+        "sale": "30",
+        "instock": "599",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Vivo/Vivo-V-Series/V25/Gold/vivo_V25_gold_1.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-V-Series/V25/Gold/vivo_V25_gold_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-V-Series/V25/Gold/vivo_V25_gold_4.jpg"
+            }
+        ],
+        "price": "250",
+        "oldprice": "275",
+        "color": "Gold",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.44 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2404 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Schott Xensation UP Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "MediaTek Dimensity 900 5G"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4500 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.44\", AMOLED",
+                "resolution": "1080 x 2404 Pixels",
+                "touch": "Schott Xensation UP Tempered Glass",
+                "cpumain": "Android 12, MediaTek Dimensity 900 5G",
+                "battery": "Li-Ion, 4500 mAh",
+                "download":"./download/id38.docx"
+    },
+    {
+        "id": 64,
+        "salebig": [
+            {
+                "title": "Oneplus Nord CE"
+            }
+        ],
+        "img": "assets/cellphones/Oneplus/OnePlus-N-Series/Nord-CE/Blue-Void/oneplus_nordCE_blue_3.jpg",
+        "img2": "assets/cellphones/Oneplus/OnePlus-N-Series/Nord-CE/Blue-Void/oneplus_nordCE_blue_3-1.jpg",
+        "brand": "Oneplus",
+        "logobrand": "assets/brands/oneplus.jpg",
+        "title": "Oneplus Nord CE",
+        "sale": "15",
+        "instock": "189",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Oneplus/OnePlus-N-Series/Nord-CE/Blue-Void/oneplus_nordCE_blue_3-1.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oneplus/OnePlus-N-Series/Nord-CE/Blue-Void/oneplus_nordCE_blue_3-1.jpg"
+            }
+        ],
+        "price": "178",
+        "oldprice": "195",
+        "colors": [
+            {
+                "color": "Blue"
+            },
+            {
+                "color": "Grey"
+            },
+            {
+                "color": "Silver"
+            }
+        ],
+        "storagecapacitys": [
+            {
+                "storagecapacity": "128GB"
+            }
+        ],
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.43 inch, Fluid AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 3 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 11"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 750G 5G 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 4500 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.43\", Fluid AMOLED",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 3 Tempered Glass",
+                "cpumain": "Android 11, Snapdragon 750G 5G 8 cores",
+                "battery": "Li-Po, 4500 mAh",
+                "download":"./download/id64.docx"
+    },
+    {
+        "id": 69,
+        "salebig": [
+            {
+                "title": "Xiaomi 12T"
+            }
+        ],
+        "img": "assets/cellphones/Xiaomi/Xiaomi-12-Series/12T/Silver/xiaomi_12T_silver_1.png",
+        "img2": "assets/cellphones/Xiaomi/Xiaomi-12-Series/12T/Silver/xiaomi_12T_silver_2.jpg",
+        "brand": "Xiaomi",
+        "logobrand": "assets/brands/xiaomi.jpg",
+        "title": "Xiaomi 12T",
+        "sale": "25",
+        "instock": "858",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-12-Series/12T/Silver/xiaomi_12T_silver_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-12-Series/12T/Silver/xiaomi_12T_silver_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-12-Series/12T/Silver/xiaomi_12T_silver_4.jpg"
+            }
+        ],
+        "price": "341",
+        "oldprice": "368",
+        "color": "Silver",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "1.5K, 6.67 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1220 x 2712 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 5 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "MediaTek Dimensity 8100 Ultra 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "1.5K, 6.67\", AMOLED",
+                "resolution": "1220 x 2712 Pixels",
+                "touch": "Corning Gorilla Glass 5 Tempered Glass",
+                "cpumain": "Android 12, MediaTek Dimensity 8100 Ultra 8 cores",
+                "battery": "Li-Ion, 5000 mAh",
+                "download":"./download/id69.docx"
+    },
+    {
+        "id": 13,
+        "salebig": [
+            {
+                "title": "IPhone 13 Pro Max"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_1-1.png",
+        "img2": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_2.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "IPhone 13 Pro Max",
+        "sale": "23",
+        "instock": "453",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro-max/Green/13promax_green_4.jpg"
+            }
+        ],
+        "price": "819",
+        "oldprice": "999",
+        "color": "Green",
+        "storagecapacity": "512GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.7 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1170 x 2532 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 15"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A15 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4325 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.7\", OLED",
+                "resolution": "1170 x 2532 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 15, Apple A15 Bionic 6 cores",
+                "battery": "Li-Ion, 4325 mAh",
+                "download":"./download/id13.docx"
+    },
+    {
+        "id": 14,
+        "salebig": [
+            {
+                "title": "IPhone 13 Pro"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_3-1.png",
+        "img2": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_2.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "IPhone 13 Pro",
+        "sale": "23",
+        "instock": "453",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13-pro/Silver/13pro_silver_4.jpg"
+            }
+        ],
+        "price": "800",
+        "oldprice": "999",
+        "color": "Silver",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.1 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1170 x 2532 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 15"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A15 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3095 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.1\", OLED",
+                "resolution": "1170 x 2532 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 15, Apple A15 Bionic 6 cores",
+                "battery": "Li-Ion, 3095 mAh",
+                "download":"./download/id14.docx"
+    },
+    {
+        "id": 15,
+        "salebig": [
+            {
+                "title": "IPhone 13"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/13_pink_1-1.png",
+        "img2": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/iphone-13-4-2.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "IPhone 13",
+        "sale": "29",
+        "instock": "453",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/iphone-13-4-2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/iphone-13-5-2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/iphone-13-6-2.jpg"
+            }
+        ],
+        "price": "3955",
+        "oldprice": "4087",
+        "color": "Pink",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.1 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1170 x 2532 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 15"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A15 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3240 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.1\", OLED",
+                "resolution": "1170 x 2532 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 15, Apple A15 Bionic 6 cores",
+                "battery": "Li-Ion, 3240 mAh",
+                "download":"./download/id15.docx"
+    },
+    {
+        "id": 17,
+        "salebig": [
+            {
+                "title": "Samsung Z Flip 4"
+            }
+        ],
+        "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_1-1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_2.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung Z Flip 4",
+        "sale": "30",
+        "instock": "2190",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-Z-Series/Galaxy-Z-Flip-4/Champagne Pink/ss_flip4_champagne_4.jpg"
+            }
+        ],
+        "price": "266",
+        "oldprice": "297",
+        "color": "Pink",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "FHD+, Main 6.7 inch & Extra 1.9 inch, Main: Dynamic AMOLED 2X & Extra: Super AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "Main: (2640 x 1080 Pixels) & Extra: (260 x 512 Pixels)"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Main: Ultra Thin Glass & Extra: Corning Gorilla Glass Victus+"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 8+ Gen 1 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3700 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "FHD+, Main 6.7\", Dynamic AMOLED 2X",
+                "resolution": "Main: 2640 x 1080 Pixels",
+                "touch": "Main: Ultra Thin Glass",
+                "cpumain": "Android 12, Snapdragon 8+ Gen 1 8 cores",
+                "battery": "Li-Ion, 3700 mAh",
+                "download":"./download/id17.docx"
+    },
+    {
+        "id": 7,
+        "salebig": [
+            {
+                "title": "Samsung S21 FE"
+            }
+        ],
+        "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Olive-Green/ss_s21fe_green_1-1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Olive-Green/ss_s21fe_green_2.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung S21 FE",
+        "sale": "31",
+        "instock": "26",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Olive-Green/ss_s21fe_green_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Olive-Green/ss_s21fe_green_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S21-FE/Olive-Green/ss_s21fe_green_4.jpg"
+            }
+        ],
+        "price": "550",
+        "oldprice": "804",
+        "color": "Green",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.4 inch, Dynamic AMOLED 2X"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2340 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass Victus Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Exynos 2100 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4500 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.4\", Dynamic AMOLED 2X",
+                "resolution": "1080 x 2340 Pixels",
+                "touch": "Corning Gorilla Glass Victus Tempered Glass",
+                "cpumain": "Android 12, Exynos 2100 8 cores",
+                "battery": "Li-Ion, 4500 mAh",
+                "download":"./download/id7.docx"
+    },
+    {
+        "id": 8,
+        "salebig": [
+            {
+                "title": "Realme C33"
+            }
+        ],
+        "img": "assets/cellphones/Realme/C33/Green/realme_c33_green_1.jpg",
+        "img2": "assets/cellphones/Realme/C33/Green/realme_c33_green_2.jpg",
+        "brand": "Realme",
+        "logobrand": "assets/brands/realme.jpg",
+        "title": "Realme C33",
+        "sale": "19",
+        "instock": "712",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Realme/C33/Green/realme_c33_green_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Realme/C33/Green/realme_c33_green_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Realme/C33/Green/realme_c33_green_4.jpg"
+            }
+        ],
+        "price": "164",
+        "oldprice": "169",
+        "color": "Green",
+        "storagecapacity": "64GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "HD+, 6.5 inch, IPS LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "720 x 1600 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Normal glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Unisoc Tiger T612"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "HD+, 6.5\", IPS LCD",
+                "resolution": "720 x 1600 Pixels",
+                "touch": "Normal glass",
+                "cpumain": "Android 12, Unisoc Tiger T612",
+                "battery": "Li-Po, 5000 mAh",
+                "download":"./download/id8.docx"
+    },
+    {
+        "id": 47,
+        "salebig": [
+            {
+                "title": "Nokia G21"
+            }
+        ],
+        "img": "assets/cellphones/Nokia/Nokia-G-Series/G21/Brown/nokia_g21_brown_1.jpg",
+        "img2": "assets/cellphones/Nokia/Nokia-G-Series/G21/Brown/nokia_g21_brown_2.jpg",
+        "brand": "Nokia",
+        "logobrand": "assets/brands/nokia.jpg",
+        "title": "Nokia G21",
+        "sale": "16",
+        "instock": "585",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Nokia/Nokia-G-Series/G21/Brown/nokia_g21_brown_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Nokia/Nokia-G-Series/G21/Brown/nokia_g21_brown_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Nokia/Nokia-G-Series/G21/Brown/nokia_g21_brown_4.jpg"
+            }
+        ],
+        "price": "185",
+        "oldprice": "196",
+        "color": "Brown",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "HD+, 6.5 inch, TFT LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "720 x 1600 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Panda Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 11"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Unisoc T606 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5050 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "HD+, 6.5\", TFT LCD",
+                "resolution": "720 x 1600 Pixels",
+                "touch": "Panda Tempered Glass",
+                "cpumain": "Android 11, Unisoc T606 8 cores",
+                "battery": "Li-Ion, 5050 mAh",
+                "download":"./download/id47.docx"
+    },
+    {
+        "id": 10,
+        "salebig": [
+            {
+                "title": "iPhone 14 Pro"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro/Gold/14pro_gold_1.png",
+        "img2": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro/Gold/iphone14-pro-4.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "iPhone 14 Pro",
+        "sale": "16",
+        "instock": "1524",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro/Gold/iphone14-pro-4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro/Gold/iphone14-pro-5.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-pro/Gold/iphone14-pro-6.jpg"
+            }
+        ],
+        "price": "343",
+        "oldprice": "349",
+        "color": "Gold",
+        "storagecapacity": "512GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.1 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "2556 x 1179 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 16"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A16 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3200 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.1 inch, OLED",
+                "resolution": "2556 x 1179 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 16, Apple A16 Bionic 6 cores",
+                "battery": "Li-Ion, 3200 mAh",
+                "download":"./download/id10.docx"
+    },
+    {
+        "id": 11,
+        "salebig": [
+            {
+                "title": "iPhone 14 Plus"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-plus/Midnight/14plus_midnight_1.png",
+        "img2": "assets/cellphones/Apple/iphone-14-series/iphone-14-plus/Midnight/iphone-14-plus-den-4.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "iPhone 14 Plus",
+        "sale": "19",
+        "instock": "2541",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-plus/Midnight/iphone-14-plus-den-4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-plus/Midnight/iphone-14-plus-den-5.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14-plus/Midnight/iphone-14-plus-den-6.jpg"
+            }
+        ],
+        "price": "343",
+        "oldprice": "349",
+        "color": "Black",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.7 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1284 x 2778 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 16"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A15 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 4325 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.7 inch, OLED",
+                "resolution": "1284 x 2778 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 16, Apple A15 Bionic 6 cores",
+                "battery": "Li-Ion, 4325 mAh",
+                "download":"./download/id11.docx"
+    },
+    {
+        "id": 12,
+        "salebig": [
+            {
+                "title": "iPhone 14"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-14-series/iphone-14/Blue/14_blue_1.png",
+        "img2": "assets/cellphones/Apple/iphone-14-series/iphone-14/Blue/iphone-14-xanh-4.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "iPhone 14",
+        "sale": "15",
+        "instock": "2489",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14/Blue/iphone-14-xanh-4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14/Blue/iphone-14-xanh-5.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-14-series/iphone-14/Blue/iphone-14-xanh-6.jpg"
+            }
+        ],
+        "price": "388",
+        "oldprice": "412",
+        "color": "Blue",
+        "storagecapacity": "512GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.1 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1170 x 2532 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 16"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A15 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3279 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.1\", OLED",
+                "resolution": "1170 x 2532 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 16, Apple A15 Bionic 6 cores",
+                "battery": "Li-Ion, 3279 mAh",
+                "download":"./download/id12.docx"
+    },
+    {
+        "id": 6,
+        "salebig": [
+            {
+                "title": "Apple iPhone 12"
+            }
+        ],
+        "img": "assets/cellphones/Apple/iphone-12/White/12_white_1.png",
+        "img2": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-4-org.jpg",
+        "brand": "Apple",
+        "logobrand": "assets/brands/apple.png",
+        "title": "iPhone 12",
+        "sale": "17",
+        "instock": "45",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-4-org.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-5-1-org.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-9-org.jpg"
+            },
+            {
+                "img": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-8-org.jpg"
+            }
+        ],
+        "price": "825",
+        "oldprice": "1016",
+        "color": "White",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Super Retina XDR, 6.1 inch, OLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1170 x 2532 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Ceramic Shield Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "iOS 15"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Apple A14 Bionic 6 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 2815 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Super Retina XDR, 6.1\", OLED",
+                "resolution": "1170 x 2532 Pixels",
+                "touch": "Ceramic Shield Tempered Glass",
+                "cpumain": "iOS 15, Apple A14 Bionic 6 cores",
+                "battery": "Li-Ion, 2815 mAh",
+                "download":"./download/id6.docx"
+    },
+    {
+        "id": 18,
+        "salebig": [
+            {
+                "title": "Samsung S22"
+            }
+        ],
+        "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/ss_s22_blossom_1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-11.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung S22",
+        "sale": "14",
+        "instock": "219",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-11.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-6.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-7.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-8.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-S-Series/Galaxy-S22/Blossom Pink/samsung-galaxy-s22-plus-9.jpg"
+            }
+        ],
+        "price": "268",
+        "oldprice": "279",
+        "color": "Pink",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.1 inch, Dynamic AMOLED 2X"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2340 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass Victus+ Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 8 Gen 1 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 3700 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.1\", Dynamic AMOLED 2X",
+                "resolution": "1080 x 2340 Pixels",
+                "touch": "Corning Gorilla Glass Victus+ Tempered Glass",
+                "cpumain": "Android 12, Snapdragon 8 Gen 1 8 cores",
+                "battery": "Li-Ion, 3700 mAh",
+                "download":"./download/id18.docx"
+    },
+    {
+        "id": 19,
+        "salebig": [
+            {
+                "title": "Samsung A73"
+            }
+        ],
+        "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_2.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung A73",
+        "sale": "14",
+        "instock": "219",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A73-5G/Green/ss_A73_green_5.jpg"
+            }
+        ],
+        "price": "197",
+        "oldprice": "212",
+        "color": "Green",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.7 inch, Super AMOLED Plus"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 5 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 778G 5G 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.7\", Super AMOLED Plus",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 5 Tempered Glass",
+                "cpumain": "Android 12, Snapdragon 778G 5G 8 cores",
+                "battery": "Li-Po, 5000 mAh",
+                "download":"./download/id19.docx"
+    },
+    {
+        "id": 20,
+        "salebig": [
+            {
+                "title": "Samsung A53"
+            }
+        ],
+        "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A53-5G/Black/ss_A53_black_1.jpg",
+        "img2": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A53-5G/Black/ss_A53_black_2.jpg",
+        "brand": "Samsung",
+        "logobrand": "assets/brands/samsung.jpg",
+        "title": "Samsung A53",
+        "sale": "19",
+        "instock": "622",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A53-5G/Black/ss_A53_black_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A53-5G/Black/ss_A53_black_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Samsung/Galaxy-A-Series/Galaxy-A53-5G/Black/ss_A53_black_4.jpg"
+            }
+        ],
+        "price": "188",
+        "oldprice": "210",
+        "color": "Black",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.5 inch, Super AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 5 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Exynos 1280 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.5\", Super AMOLED",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 5 Tempered Glass",
+                "cpumain": "Android 12, Exynos 1280 8 cores",
+                "battery": "Li-Ion, 5000 mAh",
+                "download":"./download/id20.docx"
+    },
+    {
+        "id": 26,
+        "salebig": [
+            {
+                "title": "Oppo Find X5 Pro"
+            }
+        ],
+        "img": "assets/cellphones/Oppo/Oppo-Find-X-Series/Find-X5-Pro/White/oppo_find5x_white_1.jpg",
+        "img2": "assets/cellphones/Oppo/Oppo-Find-X-Series/Find-X5-Pro/White/oppo_find5x_white_3.jpg",
+        "brand": "Oppo",
+        "logobrand": "assets/brands/oppo.jpg",
+        "title": "Oppo Find X5 Pro",
+        "sale": "28",
+        "instock": "188",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Find-X-Series/Find-X5-Pro/White/oppo_find5x_white_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Find-X-Series/Find-X5-Pro/White/oppo_find5x_white_4.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Find-X-Series/Find-X5-Pro/White/oppo_find5x_white_5.jpg"
+            }
+        ],
+        "price": "287",
+        "oldprice": "311",
+        "color": "White",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "2K+, 6.7 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1440 x 3216 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass Victus"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 8 Gen 1 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "2K+, 6.7\", AMOLED",
+                "resolution": "1440 x 3216 Pixels",
+                "touch": "Corning Gorilla Glass Victus",
+                "cpumain": "Android 12, Snapdragon 8 Gen 1 8 cores",
+                "battery": "Li-Po, 5000 mAh",
+                "download":"./download/id26.docx"
+    },
+    {
+        "id": 27,
+        "salebig": [
+            {
+                "title": "Oppo Reno 8"
+            }
+        ],
+        "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-8-5G/Gold/oppo_reno8_gold_3.png",
+        "img2": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-8-5G/Gold/oppo_reno8_gold_1.jpg",
+        "brand": "Oppo",
+        "logobrand": "assets/brands/oppo.jpg",
+        "title": "Oppo Reno 8",
+        "sale": "28",
+        "instock": "1188",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-8-5G/Gold/oppo_reno8_gold_1.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-8-5G/Gold/oppo_reno8_gold_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Oppo/Oppo-Reno-Series/Reno-8-5G/Gold/oppo_reno8_gold_3.jpg"
+            }
+        ],
+        "price": "187",
+        "oldprice": "211",
+        "color": "Gold",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.4 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 5 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 680 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 4500 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.4\", AMOLED",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 5 Tempered Glass",
+                "cpumain": "Android 12, Snapdragon 680 8 cores",
+                "battery": "Li-Po, 4500 mAh",
+                "download":"./download/id27.docx"
+    },
+    {
+        "id": 39,
+        "salebig": [
+            {
+                "title": "Vivo T1x"
+            }
+        ],
+        "img": "assets/cellphones/Vivo/Vivo-T-Series/T1x/Blue/vivo_T1x_blue_2.png",
+        "img2": "assets/cellphones/Vivo/Vivo-T-Series/T1x/blue/vivo_T1x_blue_1.jpg",
+        "brand": "Vivo",
+        "logobrand": "assets/brands/vivo.jpg",
+        "title": "Vivo T1x",
+        "sale": "25",
+        "instock": "399",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Vivo/Vivo-T-Series/T1x/blue/vivo_T1x_blue_1.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-T-Series/T1x/blue/vivo_T1x_blue_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-T-Series/T1x/blue/vivo_T1x_blue_4.jpg"
+            }
+        ],
+        "price": "280",
+        "oldprice": "299",
+        "color": "Blue",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.58 inch, IPS LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2408 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Panda Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 680 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.58\", IPS LCD",
+                "resolution": "1080 x 2408 Pixels",
+                "touch": "Panda Tempered Glass",
+                "cpumain": "Android 12, Snapdragon 680 8 cores",
+                "battery": "Li-Ion, 5000 mAh",
+                "download":"./download/id39.docx"
+    },
+    {
+        "id": 40,
+        "salebig": [
+            {
+                "title": "Vivo Y35"
+            }
+        ],
+        "img": "assets/cellphones/Vivo/Vivo-Y-Series/Y35/Gold/vivo_Y35_gold_1.png",
+        "img2": "assets/cellphones/Vivo/Vivo-Y-Series/Y35/Gold/vivo_Y35_gold_2.jpg",
+        "brand": "Vivo",
+        "logobrand": "assets/brands/vivo.jpg",
+        "title": "Vivo Y35",
+        "sale": "24",
+        "instock": "185",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Vivo/Vivo-Y-Series/Y35/Gold/vivo_Y35_gold_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-Y-Series/Y35/Gold/vivo_Y35_gold_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Vivo/Vivo-Y-Series/Y35/Gold/vivo_Y35_gold_4.jpg"
+            }
+        ],
+        "price": "270",
+        "oldprice": "289",
+        "color": "Gold",
+        "storagecapacity": "128GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.58 inch, IPS LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2408 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Panda Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 680 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Po, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.58\", IPS LCD",
+                "resolution": "1080 x 2408 Pixels",
+                "touch": "Panda Tempered Glass",
+                "cpumain": "Android 12, Snapdragon 680 8 cores",
+                "battery": "Li-Po, 5000 mAh",
+                "download":"./download/id40.docx"
+    },
+    {
+        "id": 50,
+        "salebig": [
+            {
+                "title": "Nokia C31"
+            }
+        ],
+        "img": "assets/cellphones/Nokia/Nokia-C-Series/C31/Mint/nokia_c31_mint_1.png",
+        "img2": "assets/cellphones/Nokia/Nokia-C-Series/C31/Mint/nokia_c31_mint_2.jpg",
+        "brand": "Nokia",
+        "logobrand": "assets/brands/nokia.jpg",
+        "title": "Nokia C31",
+        "sale": "18",
+        "instock": "385",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Nokia/Nokia-C-Series/C31/Mint/nokia_c31_mint_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Nokia/Nokia-C-Series/C31/Mint/nokia_c31_mint_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Nokia/Nokia-C-Series/C31/Mint/nokia_c31_mint_4.jpg"
+            }
+        ],
+        "price": "169",
+        "oldprice": "176",
+        "color": "Green",
+        "storagecapacity": "64GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "HD+, 6.7 inch, TFT LCD"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "720 x 1600 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "2.5D Curved Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 12"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Unisoc SC9863A1 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5050 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "HD+, 6.7\", TFT LCD",
+                "resolution": "720 x 1600 Pixels",
+                "touch": "2.5D Curved Glass",
+                "cpumain": "Android 12, Unisoc SC9863A1 8 cores",
+                "battery": "Li-Ion, 5050 mAh",
+                "download":"./download/id50.docx"
+    },
+    {
+        "id": 71,
+        "salebig": [
+            {
+                "title": "Xiaomi Redmi Note 11"
+            }
+        ],
+        "img": "assets/cellphones/Xiaomi/Xiaomi-Note-11-Series/Redmi-Note-11/Grey/xiaomi_redmi_note11_grey_1.jpg",
+        "img2": "assets/cellphones/Xiaomi/Xiaomi-Note-11-Series/Redmi-Note-11/Grey/xiaomi_redmi_note11_grey_2.jpg",
+        "brand": "Xiaomi",
+        "logobrand": "assets/brands/xiaomi.jpg",
+        "title": "Xiaomi Redmi Note 11",
+        "sale": "25",
+        "instock": "858",
+        "imgbigs": [
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-Note-11-Series/Redmi-Note-11/Grey/xiaomi_redmi_note11_grey_2.jpg"
+            },
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-Note-11-Series/Redmi-Note-11/Grey/xiaomi_redmi_note11_grey_3.jpg"
+            },
+            {
+                "img": "assets/cellphones/Xiaomi/Xiaomi-Note-11-Series/Redmi-Note-11/Grey/xiaomi_redmi_note11_grey_4.jpg"
+            }
+        ],
+        "price": "366",
+        "oldprice": "387",
+        "color": "Grey",
+        "storagecapacity": "256GB",
+        "informations": [
+            {
+                "information": "Display",
+                "details": [
+                    {
+                        "info1": "Screen",
+                        "info2": "Full HD+, 6.43 inch, AMOLED"
+                    },
+                    {
+                        "info1": "Resolution",
+                        "info2": "1080 x 2400 Pixels"
+                    },
+                    {
+                        "info1": "Touch Glass",
+                        "info2": "Corning Gorilla Glass 3 Tempered Glass"
+                    }
+                ]
+            },
+            {
+                "information": "CPU",
+                "details": [
+                    {
+                        "info1": "Operating system",
+                        "info2": "Android 11"
+                    },
+                    {
+                        "info1": "CPU",
+                        "info2": "Snapdragon 680 8 cores"
+                    }
+                ]
+            },
+            {
+                "information": "Battery capacity",
+                "details": [
+                    {
+                        "info1": "Battery",
+                        "info2": "Li-Ion, 5000 mAh"
+                    }
+                ]
+            }
+        ],
+                "screen": "Full HD+, 6.43\", AMOLED",
+                "resolution": "1080 x 2400 Pixels",
+                "touch": "Corning Gorilla Glass 3 Tempered Glass",
+                "cpumain": "Android 11, Snapdragon 680 8 cores",
+                "battery": "Li-Ion, 5000 mAh",
+                "download":"./download/id71.docx"
+    }
+]
