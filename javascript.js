@@ -292,7 +292,7 @@ app.controller("shopCart", function($scope, $http){
 });
 
 app.controller('compare', function($scope, $http) {
-  $http.get("https://naymihtah.github.io/blackandblue/products.json").then(function(response){
+  $http.get("products.json").then(function(response){
     $scope.products = response.data;
 })
 });
