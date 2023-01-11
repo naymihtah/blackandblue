@@ -57,7 +57,7 @@ tClose.addEventListener('click', function(){
     showClass.classList.remove('showsearch')
 });
 
-var app = angular.module("myApp", ["ngRoute", "ngAnimate"]);
+var app = angular.module("myApp", ["ngRoute", "ngAnimate", "ui.directives", "ui.filters"]);
     app.config(function($routeProvider) {
     $routeProvider
     .when("/",{ 
@@ -231,16 +231,6 @@ app.controller("myCtrl", ['$scope','$http','$filter', '$routeParams', function($
     $scope.totalPrice += parseFloat(myItems.price);
   };
   
-  $scope.addBasket = function(myItem) {
-    if(myItem.count > 1){
-      myItem.count += 1;
-      $scope.count++;
-    }
-    else if(myItem.count === 1)
-    {
-      $scope.count++;
-    }
-  };
 
   $scope.removeBasket = function(myItem) {
     if(myItem.count > 1){
@@ -526,3 +516,14 @@ app.controller("Xiaomi",function($scope,$http){
       })
   })
 });
+app.controller("100",function($scope,$http){
+  $http.get("products.json").then(function(response){
+      $scope.products=[];
+      angular.forEach(response.data,function(products){
+          if(products.price <="100"){
+              $scope.products.push(products);
+          }
+      })
+  })
+});
+

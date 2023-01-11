@@ -1366,14 +1366,14 @@ h3
     /* WIDGETS */
     .widgets
     {
-        padding: 3.5em 2.5em;
+        padding: 3.5em 2.5em 0 2.5em;
         background-color: var(--light-bg-color);
     }
 
     /* Footer */
     .footer-info
     {
-        padding: 3.5em 0 5em;
+        padding: 3.5em 0 1em;
     }
     .footer-info .wrapper .flexcol
     {
@@ -2625,7 +2625,7 @@ h3
         display: block;
         border: 0;
         outline: 0;
-        cursor: pointer;
+        /* cursor: pointer; */
         width: --100;
         max-width: 280px;
         font-size: 1.2em;

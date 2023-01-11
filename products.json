@@ -276,7 +276,9 @@
         "logobrands":
         [
             {
-                "brand": "assets/brands/apple.png"
+                "brand": "assets/brands/apple.png",
+                "id": 1,
+                "brand1": "Apple"
             },
             {
                 "brand": "assets/brands/asus.jpg"
@@ -453,7 +455,7 @@
         "img2": "assets/cellphones/Apple/iphone-11/White/11_white_3.jpg",
         "brand": "Apple",
         "logobrand": "assets/brands/apple.png",
-        "title": "iPhone 11",
+        "title": "IPhone 11",
         "sale": "28",
         "instock": "29",
         "imgbigs": [
@@ -1148,6 +1150,12 @@
         "title": "IPhone 13",
         "sale": "29",
         "instock": "453",
+        "test":
+        [
+            {
+                "brand": "Apple"
+            }
+        ],
         "imgbigs": [
             {
                 "img": "assets/cellphones/Apple/iphone-13-series/iphone-13/Pink/iphone-13-4-2.jpg"
@@ -1761,7 +1769,7 @@
         "img2": "assets/cellphones/Apple/iphone-12/White/iphone-12-trang-4-org.jpg",
         "brand": "Apple",
         "logobrand": "assets/brands/apple.png",
-        "title": "iPhone 12",
+        "title": "IPhone 12",
         "sale": "17",
         "instock": "45",
         "imgbigs": [

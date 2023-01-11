@@ -11,6 +11,7 @@
                                             <ul class="flexitem">
                                                 <li><a href="#" id="home">Home</a></li>
                                                 <li>Brand</li>
+                                                <li ng-repeat="data in products | unique: 'brand'">{{data.brand}}</li>
                                             </ul>
                                         </div>
                                         <div class="cat-navigation flexitem">
